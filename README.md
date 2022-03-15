@@ -72,7 +72,7 @@ We found false positive result as well & calculated Confusion Matrices to get Pr
 7. Sanju Manna
 
 
-## References takenm from:
+## References taken from:
 
 1. https://bnlp.readthedocs.io/en/latest/
 2. https://github.com/sagorbrur/bnlp
