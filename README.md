@@ -1,24 +1,6 @@
 # Machine Learning approach to Bengali Parts of Speech Tagging
 
-.. image:: https://travis-ci.org/sagorbrur/bnlp.svg?branch=master
-   :target: https://travis-ci.org/sagorbrur/bnlp
-   :alt: Build Status
 
-
-.. image:: https://img.shields.io/pypi/v/bnlp_toolkit
-   :target: https://pypi.org/project/bnlp-toolkit/
-   :alt: PyPI version
-
-
-.. image:: https://img.shields.io/github/v/release/sagorbrur/bnlp
-   :target: https://github.com/sagorbrur/bnlp/releases/tag/1.1.0
-   :alt: release version
-
-
-.. image:: https://img.shields.io/badge/python-3.6%7C3.7%7C3.8-brightgreen
-   :target: https://pypi.org/project/bnlp-toolkit/
-   :alt: Support Python Version
-   
 
 ## About the Project:
 
@@ -28,9 +10,7 @@ This project has been done as the part of Minor Project submission at Heritage I
 
 A library with pre-trained model for POS Tagging including Word Vectors, Name Entity Recognition.
 
-Installation
-============
-
+## Installation
 
 * 
   pypi package installer(python 3.6, 3.7, 3.8 tested okay)
