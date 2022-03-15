@@ -1,7 +1,10 @@
-# Machine Learning to Bengali Parts of Speech Tagging
+# Machine Learning approach to Bengali Parts of Speech Tagging
 
 ## Bengali Corpus Parts of Speech Tagging using BNLP (Bengali Natural Language Processing) toolkit- 
 A library with pre-trained model for POS Tagging including Word Vectors, Name Entity Recognition.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 We have first used Natural Language ToolKit or NLTK library to define & apply POS tagging on English Corpus.
 
@@ -19,14 +22,18 @@ We have used dataset from NLTR & got 90% accuracy.
 
 In the next we have vectorized Bengali Words using BengaliWord2Vector function using pre-trained model from BNLP to get the vector shape of words & values under Deep Learning approach. 
 
-Tools: 
-1. Jupyter Notebook
+
+Tools:
+
+1. Jupyter Notebook/Google Cloab
 2. BNLP Library. Reference taken from: Prof. Sagor Sarker (Bangladesh) on GitHub.
 3. Research papers on Bengali Pos Tagging.
+
 
 Mentor: Prof. Sandipan Ganguly (HIT-K).
 
 Developers:
+
 1. Rajdeep Das
 2. Arghyadeep Banerjee
 3. Soham Chakraborty
