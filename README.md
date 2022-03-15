@@ -71,6 +71,10 @@ We found false positive result as well & calculated Confusion Matrices to get Pr
 6. Alik Sarkar
 7. Sanju Manna
 
+## Read on ResearchGate:
+
+https://www.researchgate.net/publication/359231109_Machine_Learning_approach_to_POS_Tagging_in_Bengali_Language
+
 
 ## References taken from:
 
