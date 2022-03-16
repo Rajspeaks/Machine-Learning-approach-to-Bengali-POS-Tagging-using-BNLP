@@ -73,8 +73,7 @@ We found false positive result as well & calculated Confusion Matrices to get Pr
 
 ## Read on ResearchGate:
 
-https://www.researchgate.net/publication/359231109_Machine_Learning_approach_to_POS_Tagging_in_Bengali_Language
-
+https://www.researchgate.net/publication/359257508_Machine_Learning_approach_to_POS_Tagging_in_Bengali_Language_Project_Report
 
 ## References taken from:
 
