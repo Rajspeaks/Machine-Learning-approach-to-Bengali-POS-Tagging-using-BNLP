@@ -24,16 +24,22 @@ A library with pre-trained model for POS Tagging including Word Vectors, Name En
 
 ### Process:
 
-- We have first used Natural Language ToolKit or NLTK library to define & apply POS tagging on English Corpus.
 
-- In the next step, we have differentiated Bengali small corpus into individually Tokenized Bengali words using BasicTokenizer from Bengali Natural Language Processing Toolkit Library or BNLP under Rule-Based Approach. Then the same applied on two larger bengali corpora.
+- We have first used Natural Language ToolKit or NLTK library to define & apply basic POS tagging on English Corpus.
 
-- In next step, we have used NLTKTokenizer from BNLP to tokenize Bengali small corpus into two phases. One is in Word Tokenizing & second one is in Sentence Tokenizing under Rule-based approach. Then applied the same on two larger Bengali Corpora.
+- In the next step, we took a small Bengali Corpus & tokenized each Bengali words from sentences individually using BasicTokenizer from BNLP under Rule-Based Approach. Then the same applied on two larger Bengali corpora.
 
-- In the next step we have used SentencePieceTokenizer to apply Unsupervised Learning on Bengali Corpora.
-- In the next tep we have used Bengali Word2Vec Model to embed Bengali words into their vector shapes.
+- In next step, we have used NLTKTokenizer from BNLP to tokenize Bengali small corpus into two phases. One is in Word Tokenizing & second one is in Sentence Tokenizing under Rule-based approach. Word Tokenizer tokenized Bengali Words while Sentence Tokenizer tokenized each sentences separately. Then applied the same on two larger Bengali Corpora.
 
-- In the next step, we have called POS function & pre-trained model from BNLP to tag words into different Parts of Speeches. We took Bengali small corpus & applied POS tagging to categorize words into their corresponding Parts of Speeches under Conditional Random Field based approach. Then applied on two larger Bengali Corpora.
+- Next we used SentencePieceTokenizer to apply Unsupervised Learning on two Bengali Corpora.
+
+- In the next step, we used POS function with pre-trained model from BNLP & took a small Bengali Corpus to tag Bengali words & categorize them into different Parts of Speeches under Conditional Random Field based approach.
+
+- We found false positive result as well & calculated Confusion Matrices to get Precision, Recall & F1 value.
+
+- We have used dataset from NLTR & got 90% accuracy.
+
+- In the next we have embedded Bengali Words of a corpus using BengaliWord2Vector with pre-trained model from BNLP to get the vector shape of words & their values under Deep Learning approach.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
