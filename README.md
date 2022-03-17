@@ -35,10 +35,6 @@ A library with pre-trained model for POS Tagging including Word Vectors, Name En
 
 - In the next step, we used POS function with pre-trained model from BNLP & took a small Bengali Corpus to tag Bengali words & categorize them into different Parts of Speeches under Conditional Random Field based approach.
 
-- We found false positive result as well & calculated Confusion Matrices to get Precision, Recall & F1 value.
-
-- We have used dataset from NLTR & got 90% accuracy.
-
 - In the next we have embedded Bengali Words of a corpus using BengaliWord2Vector with pre-trained model from BNLP to get the vector shape of words & their values under Deep Learning approach.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
