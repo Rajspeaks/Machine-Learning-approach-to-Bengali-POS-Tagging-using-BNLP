@@ -8,7 +8,7 @@ This project has been done as the part of Minor Project submission at Heritage I
 
 ### Introduction to BNLP (Bengali Natural Language Processing) Toolkit:
 
-A library with pre-trained model for POS Tagging including Word Vectors, Name Entity Recognition.
+A library with pre-trained model for POS Tagging, Word Embedding, Name Entity Recognition, FastText, Bengali StopWords, Bengali Corpus Class recognition etc.
 
 ## Installation
 
@@ -22,7 +22,9 @@ A library with pre-trained model for POS Tagging including Word Vectors, Name En
   ``pip install -U bnlp_toolkit``
 
 
-### Process:
+### Methodology:
+
+Raw Text-> Tokenization -> POS Tagging
 
 
 - We have first used Natural Language ToolKit or NLTK library to define & apply basic POS tagging on English Corpus.
