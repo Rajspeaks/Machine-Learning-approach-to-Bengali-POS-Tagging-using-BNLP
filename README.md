@@ -1,7 +1,6 @@
 # Machine Learning approach to Bengali Parts of Speech Tagging
 
 
-
 ## About the Project:
 
 This project has been done as the part of Minor Project submission at Heritage Institute of Technology under the Mentorship of Prof. Sandipan Ganguly (HIT-K).
@@ -39,7 +38,7 @@ Raw Text-> Tokenization -> POS Tagging
 
 - In the next we have embedded Bengali Words of a corpus using BengaliWord2Vector with pre-trained model from BNLP to get the vector shape of words & their values under Deep Learning approach.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -48,9 +47,9 @@ Raw Text-> Tokenization -> POS Tagging
 ![pie-chart-Evaluated result of BNLP](https://user-images.githubusercontent.com/44817007/158361562-969f423a-b890-4bb9-aad4-360b5837c35b.png)
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Confusion Matrix
+## Confusion Matrix:
 
 We found false positive result as well & calculated Confusion Matrices to get Precision, Recall & F1 value.
 
@@ -60,14 +59,14 @@ We found false positive result as well & calculated Confusion Matrices to get Pr
 
 1. Jupyter Notebook/Google Colab
 2. BNLP Library taken from: [Prof. Sagor Sarker](https://github.com/sagorbrur) (Bangladesh) on GitHub.
-3. Research papers on Bengali Pos Tagging.
+3. Research papers on Bengali Pos Tagging taken as references.
 
 
 ## Mentor: Prof. Sandipan Ganguly (HIT-K).
 
 ## Developers:
 
-1. Rajdeep Das
+1. Rajdeep Das ([LinkedIn](https://linkedin.com/in/itsrajdeepdas))
 2. Arghyadeep Banerjee
 3. Soham Chakraborty
 4. Tanmay Guchhait
@@ -75,9 +74,13 @@ We found false positive result as well & calculated Confusion Matrices to get Pr
 6. Alik Sarkar
 7. Sanju Manna
 
-## Read on ResearchGate:
+## Read Publication on ResearchGate platform:
 
-https://www.researchgate.net/publication/359257508_Machine_Learning_approach_to_POS_Tagging_in_Bengali_Language_Project_Report
+[Link to read this publication](https://www.researchgate.net/publication/359257508_Machine_Learning_approach_to_POS_Tagging_in_Bengali_Language_Project_Report)
+
+OR, you can click on DOI: DOI: http://dx.doi.org/10.13140/RG.2.2.35358.41287
+
+Subject: Project Technical Report (Publication no. 359257508)
 
 ## References taken from:
 
@@ -89,3 +92,6 @@ https://www.researchgate.net/publication/359257508_Machine_Learning_approach_to_
 
 #### BNLP Developer Credit: Prof. Sagor Sarker (https://github.com/sagorbrur)
 
+Thank you for visiting.
+
+&copy; Rajdeep Das
